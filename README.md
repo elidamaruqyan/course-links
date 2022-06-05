@@ -13,8 +13,3 @@
 ## Tools
 
 - [GIT](git/)
--
-
-## Additional
-
-- [Common Links](commonLinks/)
